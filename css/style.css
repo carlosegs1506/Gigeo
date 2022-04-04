@@ -1,0 +1,108 @@
+span h1 {
+  float: left;
+  margin: 20px 20px 10px 50px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+}
+.icon {
+  float: right;
+  margin: 20px 50px 10px 20px;
+}
+.icon i {
+  padding: 3px;
+}
+.image-banner img {
+  max-width: 100%;
+  display: inline-block;
+  width: auto;
+  height: auto;
+  overflow: hidden;
+}
+.image-perfil {
+  padding: 20px 10px 0px 50px;
+  float: left;
+}
+.image-perfil img {
+  max-width: 100%;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.seguidores {
+  float: left;
+  padding: 15px;
+}
+.seguidores p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+}
+.seguidores span {
+  font-size: 10px;
+}
+.mensaje{
+    float: right;
+    padding: 20px 10px 0 20px;
+}
+.seguir{
+    float: right;
+    padding: 20px 50px 0 10px;
+}
+.mensaje button{
+    background-color: rgb(69, 192, 230);
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: #fff;
+    border-style: none;
+    padding: 7px;
+}
+.seguir button{
+    background-color: rgb(221, 30, 30);
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: #fff;
+    border-style: none;
+    padding: 7px;
+}
+hr{
+    margin-top: 80px;
+}
+.principal h2{
+    padding-left: 120px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-text{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-text span{
+    font-weight: lighter;
+    font-size: 12px;
+}
+footer{
+    background-color: rgb(114, 107, 107);
+}
+.footer h3{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    padding-top: 10px;
+}
+
+.footer-icon{
+  text-align: center;
+  color: #fff;
+  padding-top: 20px;
+}
+.footer-icon i{
+  padding: 15px;
+}
+.footer-legal{
+  text-align: center;
+  color: #fff;
+  padding: 20px 0px 10px 0px;
+}
+
+
+
